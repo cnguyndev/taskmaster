@@ -2,7 +2,7 @@
 
 **TaskMaster Pro** là một ứng dụng quản lý công việc mạnh mẽ và trực quan, giúp bạn và đội nhóm dễ dàng lập kế hoạch, theo dõi tiến độ và hoàn thành dự án một cách hiệu quả.
 
-🚀 **Demo trực tiếp tại:** [task.nioo.io.vn](https://www.google.com/search?q=http://task.nioo.io.vn)
+🚀 **Demo trực tiếp tại:** [task.nioo.io.vn](http://task.nioo.io.vn)
 
 ✨ **Điểm đặc biệt: Toàn bộ dự án này được hỗ trợ phát triển bởi Gemini AI từ Google.**
 
